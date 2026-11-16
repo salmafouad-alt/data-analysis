@@ -34,3 +34,72 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+```
+data-analysis
+├─ AGENTS.md
+├─ app
+│  ├─ about
+│  │  └─ page.jsx
+│  ├─ Exam
+│  │  └─ page.jsx
+│  ├─ favicon.ico
+│  ├─ globals.css
+│  ├─ layout.js
+│  ├─ lesson1
+│  │  └─ page.jsx
+│  ├─ lesson2
+│  │  └─ page.jsx
+│  ├─ lesson3
+│  │  └─ page.jsx
+│  ├─ page.js
+│  └─ subjects
+│     └─ page.tsx
+├─ eslint.config.mjs
+├─ next.config.ts
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+└─ tsconfig.json
+
+```
+```
+data-analysis
+├─ AGENTS.md
+├─ app
+│  ├─ about
+│  │  └─ page.jsx
+│  ├─ Exam
+│  │  └─ page.jsx
+│  ├─ favicon.ico
+│  ├─ globals.css
+│  ├─ layout.js
+│  ├─ lesson1
+│  │  └─ page.jsx
+│  ├─ lesson2
+│  │  └─ page.jsx
+│  ├─ lesson3
+│  │  └─ page.jsx
+│  ├─ page.js
+│  └─ subjects
+│     └─ page.tsx
+├─ eslint.config.mjs
+├─ next.config.ts
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+└─ tsconfig.json
+
+```
