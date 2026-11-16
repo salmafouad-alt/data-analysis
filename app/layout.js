@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
 
         {/* الفوتر */}
         <footer className="w-full container mx-auto px-6 py-6 border-t border-white/10 text-center text-gray-400 text-sm relative z-20">
-          <p>© {new Date().getFullYear()} إعداد الطالبة سلمى فؤاد أحمد | جميع الحقوق محفوظة</p>
+          <p>© 2026 إعداد الطالبة سلمى فؤاد أحمد | جميع الحقوق محفوظة</p>
         </footer>
 
       </body>
